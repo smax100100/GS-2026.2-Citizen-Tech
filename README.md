@@ -1,6 +1,8 @@
 # GS-2026.2-Citizen-Tech
 Integrantes: 
+
 Andrei Henrique Santos - RM 569440
+
 Heitor Maxímus Mucha - RM 571407
 
 Sobre o Projeto

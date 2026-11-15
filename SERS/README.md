@@ -5,6 +5,7 @@ Contribuição da disciplina Soluções em Energias Renováveis e Sustentáveis 
 
 Integrantes do Grupo
 Heitor Máximus Mucha — RM: 571407
+
 Andrei Henrique Santos — RM: 569440 
 
 

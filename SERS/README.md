@@ -1,5 +1,5 @@
 Markdown
-# Mobi AI — "RotaCidadã" | Módulo de Mobilidade Sustentável e Energia (SERS)
+#  Módulo de Mobilidade Sustentável e Energia (SERS)
 
 Contribuição da disciplina **Soluções em Energias Renováveis e Sustentáveis (FIAP — 1CC / GS 2026.2) integrada ao assistente digital 
 

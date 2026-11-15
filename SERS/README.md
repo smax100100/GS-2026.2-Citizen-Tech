@@ -32,6 +32,6 @@ Andrei Henrique Santos — RM: 569440
 
 ### Execução do Assistente (Modo Interativo)
 ```bash
-git clone <URL_DO_REPOSITORIO>
-cd <NOME_DO_REPOSITORIO>
+git clone <https://github.com/smax100100/GS-2026.2-Citizen-Tech>
+cd <smax100100/GS-2026.2-Citizen-Tech>
 python src/sers_mobilidade.py

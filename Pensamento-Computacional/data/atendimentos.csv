@@ -1,1 +1,12 @@
+data,origem,pergunta,id_orientacao,encontrou,ajudou,tentativas,tempo_segundos
+2026-11-17 12:27:26,pergunta,como renovar a cnh?,1,True,True,1,15.1
+2026-11-17 12:29:35,pergunta,comprei um carro usado e quero transferir para meu nome,11,True,True,1,45.7
+2026-11-17 15:01:07,pergunta,como consultar minhas multas e pontos na cnh?,14,True,True,1,4.4
+2026-11-17 15:02:40,pergunta,como dar baixa no meu carro?,13,True,True,1,28.1
+2026-11-17 15:02:56,pergunta,como solicitar o cartao de estacionamento para idoso?,,False,False,1,17.7
+2026-11-17 15:03:27,pergunta,como funciona a vistoria?,11,True,False,1,27.1
+2026-11-17 15:11:13,pergunta,"minha carteira esta vencida, como tirar uma nova ?",1,True,True,1,13.8
+2026-11-17 15:15:32,pergunta,como cancelar uma multa que recebi errado?,9,True,True,1,11.9
+2026-11-17 15:15:56,pergunta,quero passar os pontos da multa para outro motorista,8,True,True,1,2.4
+2026-11-17 15:16:19,pergunta,como pagar o ipva e o licenciamento do meu carro?,5,True,True,1,29.1
 

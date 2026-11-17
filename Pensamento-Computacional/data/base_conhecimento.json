@@ -3,7 +3,12 @@
     "id": 1,
     "categoria": "Habilitação (CNH)",
     "titulo": "Renovação da Carteira Nacional de Habilitação (CNH)",
-    "palavras_chave": ["renovar cnh", "renovacao cnh", "cnh vencida", "carteira vencida", "exame medico"],
+    "palavras_chave": [
+      "renovar", "renovo", "renovacao", "renovar cnh", "renovo minha cnh",
+      "cnh vencida", "cnhs vencidas", "carteira vencida", "carteiras vencidas",
+      "venceu minha cnh", "exame medico", "exames medicos", "atualizar cnh",
+      "validade cnh", "venceu", "vencimento cnh"
+    ],
     "resposta": "A renovação pode ser solicitada online pelo portal do Detran.SP ou Poupatempo. É necessário agendar e realizar o exame médico (e toxicológico para categorias C, D e E).",
     "documentos": ["RG ou CNH atual", "CPF", "Comprovante de endereço recente"],
     "onde": "Portal Detran.SP, aplicativo Poupatempo Digital ou clínicas credenciadas",
@@ -14,7 +19,12 @@
     "id": 2,
     "categoria": "Habilitação (CNH)",
     "titulo": "Segunda via da CNH por perda, roubo ou dano",
-    "palavras_chave": ["segunda via cnh", "2 via cnh", "perdi minha cnh", "cnh roubada", "perda carteira"],
+    "palavras_chave": [
+      "segunda via", "segundas vias", "2 via", "segunda via cnh", "2 via cnh",
+      "perdi", "perdi minha cnh", "perdi a carteira", "perdi meus documentos",
+      "cnh roubada", "fui roubado", "cnh furtada", "perda carteira",
+      "cnh danificada", "rasgou cnh", "extravio cnh", "roubaram minha cnh"
+    ],
     "resposta": "Solicite a segunda via pelo portal do Detran.SP ou Poupatempo Digital. Em caso de furto ou roubo, registre antes o Boletim de Ocorrência.",
     "documentos": ["Documento de identificação com foto", "CPF", "Boletim de Ocorrência (se roubo/furto)"],
     "onde": "Portal Detran.SP ou Poupatempo Digital",
@@ -25,7 +35,12 @@
     "id": 3,
     "categoria": "Habilitação (CNH)",
     "titulo": "Emissão da CNH Digital (CDT)",
-    "palavras_chave": ["cnh digital", "carteira digital", "cdt", "aplicativo cnh", "cnh no celular"],
+    "palavras_chave": [
+      "cnh digital", "carteira digital", "carteiras digitais", "cdt",
+      "aplicativo cnh", "app cnh", "cnh no celular", "baixar cnh",
+      "cnh eletronica", "habilitacao digital", "acessar cnh celular",
+      "qrcode cnh", "documentos digitais"
+    ],
     "resposta": "Baixe o aplicativo Carteira Digital de Trânsito (CDT), faça login com sua conta Gov.br (nível prata ou ouro) e valide os dados pela câmera do celular.",
     "documentos": ["CNH física com QR Code no verso", "Conta Gov.br"],
     "onde": "Aplicativo Carteira Digital de Trânsito (Android/iOS)",
@@ -34,9 +49,32 @@
   },
   {
     "id": 4,
+    "categoria": "Habilitação (CNH)",
+    "titulo": "Primeira Habilitação (Tirar CNH)",
+    "palavras_chave": [
+      "primeira habilitacao", "1 habilitacao", "tirar cnh", "tirar carteira",
+      "adquirir cnh", "adiquirir cnh", "fazer cnh", "autoescola", "autoescolas",
+      "cfc", "habilitacao", "habilitacoes", "quero dirigir", "carta de motorista",
+      "habilitar", "provas praticas", "aulas praticas"
+    ],
+    "resposta": "Para obter a primeira CNH (categorias A, B ou AB), faça o pré-cadastro no portal do Detran.SP ou Poupatempo, realize os exames médico e psicotécnico, conclua as aulas teóricas e práticas em uma autoescola (CFC) e seja aprovado nas provas.",
+    "documentos": ["RG ou documento oficial com foto", "CPF", "Comprovante de endereço recente"],
+    "onde": "Portal Detran.SP, Poupatempo Digital e Centros de Formação de Condutores (CFC)",
+    "fonte": "https://www.detran.sp.gov.br",
+    "verificado_em": "2026-11-10"
+  },
+  {
+    "id": 5,
     "categoria": "Veículos e Documentação",
     "titulo": "Licenciamento Anual (CRLV-e)",
-    "palavras_chave": ["licenciamento", "crlv", "documento do carro", "licenciar veiculo", "crlv digital"],
+    "palavras_chave": [
+      "licenciamento", "licenciamentos", "licenciar", "licencio", "crlv",
+      "crlv digital", "documento do carro", "documentos do carro",
+      "documento da moto", "documentos da moto", "licenciar veiculo",
+      "licenciar veiculos", "pagar licenciamento", "ipva", "imprimir documento",
+      "imprimir documentos", "baixar documento", "baixar documentos",
+      "documento atrasado", "documentos atrasados", "exercicio", "debitos veiculo"
+    ],
     "resposta": "O licenciamento anual é feito digitalmente. Após quitar débitos de IPVA, multas e a taxa de licenciamento na rede bancária, o CRLV-e fica disponível para download.",
     "documentos": ["Número do RENAVAM", "Comprovante de pagamento da taxa"],
     "onde": "Portal Detran.SP, aplicativo CDT ou Poupatempo Digital",
@@ -44,10 +82,16 @@
     "verificado_em": "2026-11-10"
   },
   {
-    "id": 5,
+    "id": 6,
     "categoria": "Veículos e Documentação",
     "titulo": "Primeiro Emplacamento de Veículo Zero Km",
-    "palavras_chave": ["primeiro emplacamento", "emplacar carro", "veiculo zero", "placa mercosul", "registro veiculo"],
+    "palavras_chave": [
+      "primeiro emplacamento", "emplacar", "emplacamento", "emplacamentos",
+      "emplacar carro", "emplacar carros", "emplacar moto", "emplacar motos",
+      "veiculo zero", "veiculos zero", "carro zero", "carros zero",
+      "placa mercosul", "placas mercosul", "registro veiculo",
+      "registrar carro novo", "comprei carro zero", "placa nova", "placas novas"
+    ],
     "resposta": "O registro inicial pode ser feito online pelo portal do Detran.SP ou Poupatempo. Após o pagamento das taxas e emissão do CRV-e, procure uma estampadora credenciada para instalar as placas.",
     "documentos": ["Nota Fiscal do fabricante e da concessionária", "RG e CPF do proprietário", "Comprovante de endereço"],
     "onde": "Portal Detran.SP e estampadoras credenciadas",
@@ -55,10 +99,16 @@
     "verificado_em": "2026-11-10"
   },
   {
-    "id": 6,
+    "id": 7,
     "categoria": "Veículos e Documentação",
     "titulo": "Desbloqueio de Veículo Sinistrado (Monta Média)",
-    "palavras_chave": ["veiculo sinistrado", "desbloqueio monta", "media monta", "csv", "sinistro"],
+    "palavras_chave": [
+      "sinistrado", "sinistrados", "veiculo sinistrado", "veiculos sinistrados",
+      "desbloqueio", "desbloqueios", "desbloquear", "monta", "media monta",
+      "csv", "sinistro", "sinistros", "batida", "batidas", "carro batido",
+      "carros batidos", "bloqueio administrativo", "bloqueios administrativos",
+      "desbloquear documento", "desbloquear documentos", "inspecao veicular"
+    ],
     "resposta": "Para desbloquear veículo com dano de média monta, é necessário realizar inspeção de segurança veicular (CSV) em instituição acreditada pelo Inmetro e apresentar notas das peças substituídas.",
     "documentos": ["Certificado de Segurança Veicular (CSV)", "Notas fiscais das peças e serviços", "RG, CPF e CRV/CRLV"],
     "onde": "Unidade de atendimento Poupatempo / Detran.SP",
@@ -66,10 +116,17 @@
     "verificado_em": "2026-11-10"
   },
   {
-    "id": 7,
+    "id": 8,
     "categoria": "Infrações e Multas",
     "titulo": "Indicação de Real Condutor Infrator",
-    "palavras_chave": ["indicar condutor", "indicar motorista", "transferir pontos", "multa outro motorista", "real infrator"],
+    "palavras_chave": [
+      "indicar", "indicacao", "indicacoes", "indicar condutor",
+      "indicar condutores", "indicar motorista", "indicar motoristas",
+      "transferir ponto", "transferir pontos", "ponto na carteira",
+      "pontos na carteira", "multa outro motorista", "multas outro motorista",
+      "nao era eu dirigindo", "real infrator", "passar pontos", "assinar multa",
+      "identificar condutor"
+    ],
     "resposta": "Caso outra pessoa estivesse dirigindo no momento da infração, o proprietário deve indicar o condutor dentro do prazo da Notificação de Autuação pelo aplicativo CDT ou portal do órgão autuador.",
     "documentos": ["CNH do proprietário", "CNH do condutor infrator", "Notificação de Autuação"],
     "onde": "Aplicativo Carteira Digital de Trânsito (CDT) ou Portal Detran.SP",
@@ -77,10 +134,16 @@
     "verificado_em": "2026-11-10"
   },
   {
-    "id": 8,
+    "id": 9,
     "categoria": "Infrações e Multas",
     "titulo": "Defesa Prévia e Recurso de Multa de Trânsito",
-    "palavras_chave": ["recorrer multa", "recurso multa", "defesa previa", "cancelar multa", "contestar multa"],
+    "palavras_chave": [
+      "recorrer", "recurso", "recursos", "recorrer multa", "recorrer multas",
+      "recurso multa", "recurso de multas", "defesa previa", "defesas previas",
+      "cancelar multa", "cancelar multas", "contestar multa", "contestar multas",
+      "multa indevida", "multas indevidas", "jari", "anular multa",
+      "anular multas", "defesa de multa", "levei multa", "levei multas", "tomei multa"
+    ],
     "resposta": "Você pode apresentar Defesa Prévia até a data limite da Notificação de Autuação ou recorrer à JARI após receber a Notificação de Penalidade, anexando provas de inconsistência no auto.",
     "documentos": ["Requerimento de defesa/recurso", "Cópia da Notificação", "CNH e CRLV do veículo", "Provas documentais"],
     "onde": "Portal do órgão autuador (Detran.SP, DER, PRF ou Prefeitura)",
@@ -88,10 +151,16 @@
     "verificado_em": "2026-11-10"
   },
   {
-    "id": 9,
+    "id": 10,
     "categoria": "Infrações e Multas",
     "titulo": "Desconto de 40% em Multas via SNE",
-    "palavras_chave": ["desconto multa", "sne", "40 por cento", "pagar multa com desconto", "sistema notificacao eletronica"],
+    "palavras_chave": [
+      "desconto", "descontos", "desconto multa", "desconto multas", "sne",
+      "40 por cento", "40%", "pagar multa", "pagar multas",
+      "pagar multa com desconto", "pagar multas com desconto",
+      "sistema notificacao eletronica", "abatimento multa", "valor multa",
+      "valores multas", "boleto multa", "boletos multas"
+    ],
     "resposta": "Aderindo ao Sistema de Notificação Eletrônica (SNE) no aplicativo CDT, é possível obter até 40% de desconto no pagamento da multa antes do vencimento, abrindo mão de apresentar recurso.",
     "documentos": ["Conta Gov.br", "Veículo cadastrado no aplicativo CDT"],
     "onde": "Aplicativo Carteira Digital de Trânsito (CDT)",
@@ -99,10 +168,17 @@
     "verificado_em": "2026-11-10"
   },
   {
-    "id": 10,
+    "id": 11,
     "categoria": "Transferência e Venda",
     "titulo": "Transferência de Propriedade de Veículo",
-    "palavras_chave": ["transferir veiculo", "transferencia carro", "comprar carro usado", "atpve", "mudar proprietario"],
+    "palavras_chave": [
+      "transferir", "transferencia", "transferencias", "transferir veiculo",
+      "transferir veiculos", "transferir carro", "transferir carros",
+      "transferir moto", "transferir motos", "transferencia carro",
+      "comprei carro", "comprar carro usado", "comprar carros usados", "atpve",
+      "mudar proprietario", "passar para meu nome", "vistoria", "vistorias",
+      "recibo de compra"
+    ],
     "resposta": "O comprador tem até 30 dias após a assinatura da ATPV-e para realizar a vistoria de identificação veicular (ECV), quitar débitos e solicitar a transferência no Detran.SP.",
     "documentos": ["ATPV-e assinada (digital ou reconhecida em cartório)", "Laudo de Vistoria ECV", "RG, CPF e comprovante de endereço"],
     "onde": "Empresa Credenciada de Vistoria (ECV) e Portal Poupatempo",
@@ -110,10 +186,16 @@
     "verificado_em": "2026-11-10"
   },
   {
-    "id": 11,
+    "id": 12,
     "categoria": "Transferência e Venda",
     "titulo": "Comunicação de Venda de Veículo",
-    "palavras_chave": ["comunicado de venda", "vendi meu carro", "comunicar venda", "isencao responsabilidade", "venda veiculo"],
+    "palavras_chave": [
+      "comunicado", "comunicados", "comunicar", "comunicacao",
+      "comunicado de venda", "comunicados de venda", "vendi meu carro",
+      "vendi meus carros", "vendi a moto", "comunicar venda", "comunicar vendas",
+      "isencao responsabilidade", "venda veiculo", "venda de veiculos",
+      "aviso de venda", "vendi o veiculo", "intencao de venda"
+    ],
     "resposta": "Ao vender o veículo, o antigo proprietário deve comunicar a venda para evitar cobranças futuras de IPVA e multas. Quando feita via ATPV-e no app CDT, a comunicação é automática.",
     "documentos": ["ATPV-e preenchida e assinada", "RG e CPF do vendedor"],
     "onde": "Aplicativo CDT, cartório ou Portal Detran.SP",
@@ -121,14 +203,34 @@
     "verificado_em": "2026-11-10"
   },
   {
-    "id": 12,
+    "id": 13,
     "categoria": "Transferência e Venda",
     "titulo": "Baixa Permanente de Veículo (Sucata)",
-    "palavras_chave": ["baixa veiculo", "dar baixa", "sucata", "perda total", "desmanche"],
+    "palavras_chave": [
+      "baixa", "baixas", "dar baixa", "baixa veiculo", "baixa veiculos",
+      "sucata", "sucatas", "perda total", "pt", "desmanche", "desmanches",
+      "carro destruido", "carros destruidos", "baixar placa", "baixar placas",
+      "encerrar registro", "veiculo irrecuperavel", "veiculos irrecuperaveis"
+    ],
     "resposta": "Veículos irrecuperáveis ou destruídos devem ter o registro baixado definitivamente no Detran, com entrega das placas e recorte do chassi, cessando cobranças futuras de impostos.",
     "documentos": ["CRV/ATPV-e", "Recorte do chassi e placas do veículo", "Laudo pericial (se acidente/sinistro)", "RG e CPF"],
     "onde": "Unidade Poupatempo / Detran.SP",
     "fonte": "https://www.detran.sp.gov.br",
     "verificado_em": "2026-11-10"
+  },
+  {
+    "id": 14,
+    "categoria": "Infrações e Multas",
+    "titulo": "Consulta de Multas e Pontuação na CNH",
+    "palavras_chave": [
+      "verificar multas", "verificar multa", "consultar multas", "consultar multa",
+      "ver multas", "ver multa", "minhas multas", "minha multa", "tenho multa",
+      "tenho multas", "checar multas", "checar multa", "pontos cnh", "ponto cnh",
+      "consultar pontos", "extrato multas", "multa", "multas"
+    ],
+    "resposta": "Você pode consultar multas do veículo e a pontuação ativa da sua CNH gratuitamente pelo aplicativo Carteira Digital de Trânsito (CDT) ou no portal do Detran.SP informando a placa e o RENAVAM.",
+    "documentos": ["Número do RENAVAM e placa do veículo", "CPF e conta Gov.br (para consulta no app CDT)"],
+    "onde": "Aplicativo Carteira Digital de Trânsito (CDT) ou Portal Detran.SP",
+    "fonte": "https://www.detran.sp.gov.br",
+    "verificado_em": "2026-11-10"
   }
-]

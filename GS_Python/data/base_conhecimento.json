@@ -233,4 +233,20 @@
     "onde": "Aplicativo Carteira Digital de Trânsito (CDT) ou Portal Detran.SP",
     "fonte": "https://www.detran.sp.gov.br",
     "verificado_em": "2026-11-10"
+  },
+  {
+    "id": 15,
+    "categoria": "Veículos e Documentação",
+    "titulo": "Credencial de Estacionamento para Idoso",
+    "palavras_chave": [
+      "cartao de estacionamento", "cartao idoso", "estacionamento idoso",
+      "credencial idoso", "vaga especial", "vaga idoso", "cartao estacionamento"
+    ],
+    "resposta": "Pessoas com 60 anos ou mais podem solicitar gratuitamente a Credencial de Estacionamento para Idoso pelo portal do Detran.SP ou aplicativo CDT, permitindo o uso de vagas especiais sinalizadas.",
+    "documentos": ["RG ou CNH", "CPF", "Comprovante de endereço"],
+    "onde": "Portal Detran.SP, aplicativo Carteira Digital de Trânsito (CDT) ou órgão municipal de trânsito",
+    "fonte": "https://www.detran.sp.gov.br",
+    "verificado_em": "2026-11-17"
   }
+ 
+]

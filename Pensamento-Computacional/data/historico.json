@@ -1,1 +1,102 @@
-
+[
+  {
+    "data": "2026-11-17 12:27:26",
+    "origem": "pergunta",
+    "pergunta": "como renovar a cnh?",
+    "id_orientacao": 1,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 15.1
+  },
+  {
+    "data": "2026-11-17 12:29:35",
+    "origem": "pergunta",
+    "pergunta": "comprei um carro usado e quero transferir para meu nome",
+    "id_orientacao": 11,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 45.7
+  },
+  {
+    "data": "2026-11-17 15:01:07",
+    "origem": "pergunta",
+    "pergunta": "como consultar minhas multas e pontos na cnh?",
+    "id_orientacao": 14,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 4.4
+  },
+  {
+    "data": "2026-11-17 15:02:40",
+    "origem": "pergunta",
+    "pergunta": "como dar baixa no meu carro?",
+    "id_orientacao": 13,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 28.1
+  },
+  {
+    "data": "2026-11-17 15:02:56",
+    "origem": "pergunta",
+    "pergunta": "como solicitar o cartao de estacionamento para idoso?",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 17.7
+  },
+  {
+    "data": "2026-11-17  15:03:27",
+    "origem": "pergunta",
+    "pergunta": "como funciona a vistoria?",
+    "id_orientacao": 11,
+    "encontrou": true,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 27.1
+  },
+  {
+    "data": "2026-11-17 15:11:13",
+    "origem": "pergunta",
+    "pergunta": "minha carteira esta vencida, como tirar uma nova ?",
+    "id_orientacao": 1,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 13.8
+  },
+  {
+    "data": "2026-11-17 15:15:32",
+    "origem": "pergunta",
+    "pergunta": "como cancelar uma multa que recebi errado?",
+    "id_orientacao": 9,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 11.9
+  },
+  {
+    "data": "2026-11-17 15:15:56",
+    "origem": "pergunta",
+    "pergunta": "quero passar os pontos da multa para outro motorista",
+    "id_orientacao": 8,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 2.4
+  },
+  {
+    "data": "2026-11-17 15:16:19",
+    "origem": "pergunta",
+    "pergunta": "como pagar o ipva e o licenciamento do meu carro?",
+    "id_orientacao": 5,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 29.1
+  }
+]

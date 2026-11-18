@@ -53,7 +53,7 @@ Assistente digital desenvolvido em Python para o desafio **CitizenTech** (GS 202
 
 ## Vídeo Técnico
 
-- **Link:** ________________________________________
+- **Link:** https://youtu.be/uJYgx6gPTDk
 
 ## Como Executar
 
